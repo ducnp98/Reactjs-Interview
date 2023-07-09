@@ -1,4 +1,4 @@
 Interview exam
 
-![image](captureImage/image1.png)
-![image](captureImage/image2.png)
+![image](capturedImage/image1.png)
+![image](capturedImage/image2.png)
